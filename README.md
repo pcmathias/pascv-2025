@@ -1,2 +1,3 @@
-# pascv-2025
-Dialogue with generative AI to generate visualization code in R
+# Analysis for Pan American Society for Clinical Virology 2025 Meeting
+
+This repository includes a Quarto document (pascv_analysis.qmd) that summarizes a data analysis resulting from an iterative series of prompts and responses with a generative AI model. Data analysis scripts in the R programming language were generated with support from ChatGPT-4o. The raw data are not included in this repository because the limited data set that was extracted includes data that are not direct identifiers but still fall within the definition of protected health information. However, some additional information regarding the input data are included in the Quarto document if you would like to try to execute it with your own data. A completed analysis is included in the .html file to show the output.
