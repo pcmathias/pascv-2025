@@ -140,7 +140,10 @@ This section was not prompted and represents modifications to a larger data set 
 
 ```{r}
 library(tidyverse) # add tidyverse family of packages
-covid <- read_csv("covid_data.csv") |> 
+covid <- read_csv("covid_data.csv", 
+    col_types = cols(collect_ts = col_datetime(format = "%m/%d/%y %H:%M"), 
+        received_ts = col_datetime(format = "%m/%d/%y %H:%M"), 
+        result_ts = col_datetime(format = "%m/%d/%y %H:%M")))|> 
   mutate(result = result_value) |> 
   filter(collect_ts > '2020-06-01', collect_ts < '2020-10-01') |> 
   filter(bt_code %in% c('CONNCV', 'NCVCOS', 'NCVQLT'))
