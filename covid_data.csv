@@ -1,0 +1,10 @@
+﻿loc_category,ord_pat_loc_type,bt_code,bt_name,test_code,test_name,collect_ts,received_ts,result_ts,specimen_desc,cap_method,result_value,result_translation,credit_code,credit_translation
+outpatient,OP,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,8/28/20 0:00,8/28/20 13:53,8/28/20 22:20,Nasal swab,VPANT1,NDET,None detected,,
+outside,OSA,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,6/25/20 10:40,6/26/20 0:01,6/26/20 20:34,Nasal,LT7500,NDET,None detected,,
+emergency room,ER,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,8/20/20 2:59,8/20/20 3:51,8/20/20 11:35,Swab,VPANT1,NDET,None detected,,
+inpatient,IP,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,8/23/20 0:58,8/23/20 1:19,8/23/20 6:46,Nasopharyngeal Swab,VC6802,NDET,None detected,,
+outside,OSA,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,6/10/20 8:10,6/10/20 16:39,6/11/20 2:13,Nasal,VC6802,NDET,None detected,,
+outside,OSA,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,8/9/20 14:29,8/10/20 13:05,8/11/20 21:20,Nasopharyngeal Swab,LT7500,NDET,None detected,,
+outside,OSA,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,8/4/20 18:50,8/5/20 0:14,8/5/20 13:11,Nasopharyngeal Swab,VPANT4,NDET,None detected,,
+outside,OSA,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,8/12/20 17:25,8/13/20 0:13,8/13/20 10:35,Nasopharyngeal Swab,VPANT3,NDET,None detected,,
+outside,OSA,NCVQLT,SARS-CoV-2 (COVID-19) Qualitative PCR,NCVRT,SARS-CoV-2 (COVID-19) Qual PCR Result,8/10/20 10:27,8/11/20 0:12,8/11/20 13:32,Nasopharyngeal Swab,VPANT4,DET-CSURGT,Detected Urgent Significant Risk Result,,
